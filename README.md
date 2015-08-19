@@ -1,2 +1,5 @@
-# 2048-badminton
-A derivative of Gabriele Cirulli's 2048, featuring badminton players.
+# 2048 - Badminton Edition
+A derivative of Gabriele Cirulli's original version of 2048, made for fun. 
+
+
+
